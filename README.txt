@@ -4,11 +4,14 @@ SubMicroTrading is a highly concurrent component based algo trading framework al
 
 I worked for over a year non stop building the framework and it pretty much consumed all my spare evening and weekends for next few years. That said I have no more time to spend on this project.
 
---------------------------------------------------------------------------------------------------------------------------------------
+My only regret is in not getting the right opportunity to get SubMicroTrading into production myself. I know there are a number of companies using SubMicroTrading but none that I have been in a position to help due to my role in a bank. Hopefully sometime soon, someone will give me an opportunity to rectify that and give me a role where I can drive the project to success.
 
-**  PLEASE DO NOT CONTACT ME ASKING FOR HELP OR QUESTIONS OR ANYTHING SubMicroTrading RELEATED AS I CANNOT HELP AND WILL NOT REPLY. **
+Best of luck
 
-######################################################################################################################################
+Richard
+
+
+#######################################################################################################################################
 
 
 I have seen alot of "stuff" written by C++ experts claiming that java cannot be used for ultra low latency. Just because they dont know how doesnt mean its not possible. I have programmed in C and C++ since the 80's and love both languages. My main preferences for Java over C++ are development time and ease of hiring devs, the IDE's are more mature and productive and I make extensive use of RTTI for bootstrapping. 
